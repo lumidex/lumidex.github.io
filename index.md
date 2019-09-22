@@ -10,17 +10,17 @@ We provide a range of analytics and optimization services each of which may be c
 ### Process Capability Assessment
 ### Spreadsheet Modeling
 ### Procedure Development
-
-
-
+ 
+ 
+ 
 ## DATA ANALYTICS SERVICES
 
 ### Consumer Segmentation
 ### Human Resources Analytics
 ### Business Analytics
-
-
-
+  
+ 
+ 
 ### Support or Contact
 
 Get in touch by sending an email to lumidexsolutions@gmail.com
