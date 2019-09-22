@@ -21,6 +21,6 @@ We provide a range of analytics and optimization services each of which may be c
   
  
  
-### Support or Contact
+## Support or Contact
 
 Get in touch by sending an email to lumidexsolutions@gmail.com
