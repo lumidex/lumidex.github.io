@@ -2,30 +2,25 @@
 
 Luminary Design Experiences or LumiDex Solutions is a service company that improves the level of control that clients have over their business through analysis and optimization of the end-to-end process. We give an illuminating experience to each client.
 
-### Services
+# SERVICES
 
-Description of services to be outlined here
+We provide a range of analytics and optimization services each of which may be customized to suit your specific business needs.
 
-Test
+## PROCESS MANAGEMENT SERVICES
 
-# Header 1
-## Header 2
-### Header 3
+### Process Optimization
+### Process Capability Assessment
+### Spreadsheet Modeling
+### Procedure Development
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## DATA ANALYTICS SERVICES
 
-**Bold** and _Italic_ and `Code` text
-
-Leaper
-
-### Jekyll Themes
-
-The memory is interesting
+### Consumer Segmentation
+### Human Resources Analytics
+### Business Analytics
+### 
 
 ### Support or Contact
 
-Test Support
+Get in touch by sending an email to lumidexsolutions@gmail.com
